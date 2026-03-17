@@ -51,7 +51,3 @@ A Matplotlib window will also pop up showing a timeline visualization of the spo
 
 ## Jupyter Notebook
 Alternatively, you can explore the code interactively using the provided Jupyter Notebook: `VAD_Audio_Detection.ipynb`. It contains the original experiment flow and Google Colab compatibility.
-
-## Acknowledgements
-
-* [Silero VAD](https://github.com/snakers4/silero-vad) for the incredible and completely open-source VAD model constraint.
